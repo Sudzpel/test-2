@@ -1,0 +1,309 @@
+
+
+.background{
+ 
+  background-image: url("/src/assets/background.png");
+}
+.rug{
+  right:22rem;
+ 
+ }
+ .test{
+   left: 36rem;
+ }
+ .rugIMg:hover{
+ cursor: pointer;
+ }
+ .sounds{
+   width: 120%;
+ }
+ .soundsContainer{
+   width: 36px;
+ }
+ .sounds:hover{
+   cursor: pointer;
+ }
+
+
+ @media screen and (min-width: 1919px) {
+
+  .rug {
+    right: 31rem;
+}
+.test {
+  left: 44rem;
+}
+
+.sounds{
+  width: 120%;
+}
+.soundsContainer{
+  width: 80px;
+}
+ }
+
+
+@media screen and (max-width: 1366px) {
+  .rug {
+    right: 31rem;
+}
+.rugIMg{
+  margin-left: 290px;
+  margin-bottom: -121px !important;
+  transform: scale(0.133);
+  width: 91%;
+
+}
+.test {
+  left: 30rem;
+  bottom: 19px;
+  transform: scale(1);
+}
+}
+
+@media screen and (max-width: 1279px) {
+  .rug {
+    right: 23rem;
+}
+.rugIMg{
+  margin-left: 245px;
+  margin-bottom: -117px !important;
+  transform: scale(0.123);
+  width: 91%;
+
+}
+.test{
+  left: 21rem;
+  bottom: 0px;
+  transform: scale(0.8);
+}
+}
+
+@media screen and (max-width: 1025px) {
+  .rug {
+    right: 23rem;
+}
+.rugIMg{
+  margin-left: 245px;
+  margin-bottom: -117px !important;
+  transform: scale(0.123);
+  width: 91%;
+
+}
+.test{
+  left: 21rem;
+  bottom: 11px;
+  transform: scale(0.8);
+}
+}
+@media screen and (max-width: 992px) {
+  .rugIMg{
+    margin-left: 245px;
+    margin-bottom: -117px !important;
+    transform: scale(0.123);
+    width: 91%;
+  }
+  .test{
+    left: 21rem;
+    bottom: 11px;
+    transform: scale(0.8);
+  }
+} 
+
+@media screen and (max-width: 913px)
+ {
+  .please{
+    width: 100%;
+  }
+  .gif{
+    
+    width: 100%;
+  }
+  .test{
+    left: -5rem;
+    width: 100%;
+    bottom: 3px;
+    transform: scale(0.5);
+  }
+  .rug{
+    right: 12rem;
+  }
+  .rugIMg{
+    margin-left: 287px;
+    margin-bottom: -95px !important;
+    transform: scale(0.2);
+    width: 91%;
+  }
+}
+
+@media screen and (max-width: 821px) {
+  .gif{
+    
+    width: 100%;
+  }
+  .please{
+    width: 100%;
+  }
+  .test{
+    left: -5rem;
+    width: 100%;
+    bottom: 3px;
+    transform: scale(0.5);
+  }
+  .rug{
+    right: 12rem;
+  }
+  .rugIMg{
+    margin-left: 287px;
+    margin-bottom: -95px !important;
+    transform: scale(0.2);
+    width: 91%;
+  }
+} 
+
+
+
+
+@media only screen and (max-width: 600px) {
+  
+  
+  .gif {
+    width: 100%;
+    
+  }
+  .copy{
+   
+      right: 0px;
+      bottom: 15px;
+  }
+  .sounds{
+    width: 100%;
+  }
+  .soundsContainer{
+    width: 36px;
+  }
+  
+  .rugIMg{
+    margin-left: 207px;
+    margin-bottom: -44px !important;
+    transform: scale(0.33);
+    width: 91%;
+
+  }
+  .test{
+    left: -3rem;
+    bottom: -3px;
+    transform: scale(0.5);
+  }
+  .testIMg{
+    
+    width: 30%;
+  }
+  .please{
+    width: 70%;
+    left: 72px;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .gif{
+    
+    width: 100%;
+  }
+  .please{
+    width: 100%;
+    left: 0px;
+  }
+  .test{
+    left: -5rem;
+    width: 100%;
+    bottom: 3px;
+    transform: scale(0.5);
+  }
+  .rug{
+    right: 12rem;
+  }
+  .rugIMg{
+    margin-left: 264px;
+    margin-bottom: -64px !important;
+    transform: scale(0.27);
+    width: 91%;
+  }
+
+}
+
+@media only screen and (max-width: 415px) {
+  .please {
+    width: 100%;
+    left: 0rem;
+}
+  .rug {
+    right: 14rem;
+}
+.rugIMg {
+  margin-left: 257px;
+  margin-bottom: -55px !important;
+  transform: scale(0.26);
+  width: 91%;
+}
+.test {
+  left: -2rem;
+    width: 100%;
+    bottom: -4px;
+    transform: scale(0.46)
+}
+
+}
+
+@media only screen and (max-width: 376px){
+  .rugIMg {
+      margin-left: 262px;
+      margin-bottom: -62px !important;
+      transform: scale(0.23);
+      width: 91%;
+  }
+  .rug{
+    right: 13rem;
+  }
+  }
+
+@media only screen and (max-width: 361px){
+.rugIMg {
+    margin-left: 262px;
+    margin-bottom: -62px !important;
+    transform: scale(0.23);
+    width: 91%;
+}
+.rug{
+  right: 13rem;
+}
+.sounds{
+    position: absolute;
+    bottom: 24px;
+}
+.copy{
+  right: 0px;
+  bottom: 50px;
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 281px) {
+  .rug {
+    right: 12rem;
+}
+.test{
+  left: -1rem;
+    width: 100%;
+    bottom: 3px;
+    transform: scale(0.5);
+}
+.rugIMg {
+  margin-left: 264px;
+    margin-bottom: -64px !important;
+    transform: scale(0.18);
+    width: 91%;
+}
+}
